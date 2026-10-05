@@ -1,0 +1,2 @@
+# Voxueg tidak memakai library pihak ketiga (hanya Python standar).
+# Opsional di Termux: pkg install termux-api traceroute qrencode neofetch
