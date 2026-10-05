@@ -5,7 +5,7 @@ Dev: **Alzeoxyz**
 ## Instalasi
 ```bash
 pkg install git -y
-git clone https://github.com/Alzeoxyz/Voxueg
+git clone https://github.com/axvonix/Voxueg
 cd Voxueg
 bash install.sh
 python voxueg.py
